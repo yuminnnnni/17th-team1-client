@@ -1,2 +1,0 @@
-echo "🔨 빌드 확인 중..."
-pnpm run build
